@@ -18,7 +18,7 @@ In a world where technology intertwines with our daily lives, this project bring
 
 ## Introduction
 
-In a tech-driven quest for sustainable agriculture, the !["Cultivating Innovation"](https://medium.com/@hugosrc/cultivo-conectado-do-conceito-%C3%A0-realidade-de-um-sistema-iot-para-monitoramento-agr%C3%ADcola-1f537af61b5b) project dives into the world of Internet of Things (IoT) to monitor and enhance organic farming practices. This repository contains the implementation details, codebase, and resources for building your own smart gardening system.
+In a tech-driven quest for sustainable agriculture, the ["Cultivating Innovation"](https://medium.com/@hugosrc/cultivo-conectado-do-conceito-%C3%A0-realidade-de-um-sistema-iot-para-monitoramento-agr%C3%ADcola-1f537af61b5b) project dives into the world of Internet of Things (IoT) to monitor and enhance organic farming practices. This repository contains the implementation details, codebase, and resources for building your own smart gardening system.
 
 ## Vision
 
