@@ -10,7 +10,7 @@
 #define SENSOR_HUMIDITY_ONE_PIN 33
 #define SENSOR_HUMIDITY_TWO_PIN 32
 
-#define DATA_SEND_INTERVAL_MS 1000 * 60 // 1 hour 
+#define DATA_SEND_INTERVAL_MS 1000 * 60 * 60 // 1 hour 
 
 #define AWS_IOT_DATA_TOPIC "iot/esp32/garden/monitoring"
 
