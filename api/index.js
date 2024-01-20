@@ -12,7 +12,7 @@ export const handler = async (event) => {
       const command = new PutCommand({
         TableName: 'IoTMonitoringGardenMetrics',
         Item: {
-          GardenId: garden.id,
+          GardenID: garden.id,
           Timestamp: new Date(garden.timestamp * 1000).toISOString(),
           Temperature: garden.temperature,
           Humidity: garden.humidity,
